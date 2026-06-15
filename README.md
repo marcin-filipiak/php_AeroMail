@@ -50,8 +50,8 @@ aeromail/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aeromail.git
-   cd aeromail
+   git clone git@github.com:marcin-filipiak/php_AeroMail.git
+   cd php_AeroMail
    ```
 
 2. **Configure the application:**

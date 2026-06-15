@@ -1,0 +1,147 @@
+
+
+========== 2026-06-15 12:06:58 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:06:58] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:06:58] ✅ Połączono
+[12:06:58] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:06:58 +0200
+[12:06:58] ✅ EHLO wysłane
+[12:06:58] ✅ STARTTLS wysłane
+[12:06:58] ✅ TLS włączony
+[12:06:58] ✅ EHLO po TLS
+[12:06:58] ✅ AUTH LOGIN
+[12:06:58] ✅ Login wysłany
+[12:06:58] ✅ Zalogowano do SMTP
+[12:06:58] MAIL FROM: 250 OK
+[12:06:58] RCPT TO marcin@filipiak.cc: 250 Accepted
+[12:06:58] DATA: 354 Enter message, ending with "." on a line by itself
+[12:06:58] Treść wysłana, odpowiedź: 250 OK id=1wZ4Da-00000000oPx-1YWh
+[12:06:58] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 12:09:16 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:09:15] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:09:15] ✅ Połączono
+[12:09:15] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:09:15 +0200
+[12:09:15] ✅ EHLO wysłane
+[12:09:15] ✅ STARTTLS wysłane
+[12:09:16] ✅ TLS włączony
+[12:09:16] ✅ EHLO po TLS
+[12:09:16] ✅ AUTH LOGIN
+[12:09:16] ✅ Login wysłany
+[12:09:16] ✅ Zalogowano do SMTP
+[12:09:16] MAIL FROM: 250 OK
+[12:09:16] RCPT TO test@norbert104.mikr.dev: 250 Accepted
+[12:09:16] DATA: 354 Enter message, ending with "." on a line by itself
+[12:09:16] Treść wysłana, odpowiedź: 250 OK id=1wZ4Fo-00000000oWD-06EB
+[12:09:16] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 12:10:29 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:10:28] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:10:28] ✅ Połączono
+[12:10:29] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:10:29 +0200
+[12:10:29] ✅ EHLO wysłane
+[12:10:29] ✅ STARTTLS wysłane
+[12:10:29] ✅ TLS włączony
+[12:10:29] ✅ EHLO po TLS
+[12:10:29] ✅ AUTH LOGIN
+[12:10:29] ✅ Login wysłany
+[12:10:29] ✅ Zalogowano do SMTP
+[12:10:29] MAIL FROM: 250 OK
+[12:10:29] RCPT TO m.filipiak@noweenergie.org: 250 Accepted
+[12:10:29] DATA: 354 Enter message, ending with "." on a line by itself
+[12:10:29] Treść wysłana, odpowiedź: 250 OK id=1wZ4Gz-00000000oaG-0u2q
+[12:10:29] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 12:12:39 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:12:38] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:12:38] ✅ Połączono
+[12:12:38] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:12:38 +0200
+[12:12:38] ✅ EHLO wysłane
+[12:12:38] ✅ STARTTLS wysłane
+[12:12:38] ✅ TLS włączony
+[12:12:38] ✅ EHLO po TLS
+[12:12:38] ✅ AUTH LOGIN
+[12:12:38] ✅ Login wysłany
+[12:12:38] ✅ Zalogowano do SMTP
+[12:12:38] MAIL FROM: 250 OK
+[12:12:39] RCPT TO bacovoy181@lidugw.com: 250 Accepted
+[12:12:39] DATA: 354 Enter message, ending with "." on a line by itself
+[12:12:39] Treść wysłana, odpowiedź: 250 OK id=1wZ4J5-00000000ojW-1KXb
+[12:12:39] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 12:13:49 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:13:49] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:13:49] ✅ Połączono
+[12:13:49] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:13:49 +0200
+[12:13:49] ✅ EHLO wysłane
+[12:13:49] ✅ STARTTLS wysłane
+[12:13:49] ✅ TLS włączony
+[12:13:49] ✅ EHLO po TLS
+[12:13:49] ✅ AUTH LOGIN
+[12:13:49] ✅ Login wysłany
+[12:13:49] ✅ Zalogowano do SMTP
+[12:13:49] MAIL FROM: 250 OK
+[12:13:49] RCPT TO barbara.nosewicz@gmail.com: 250 Accepted
+[12:13:49] DATA: 354 Enter message, ending with "." on a line by itself
+[12:13:49] Treść wysłana, odpowiedź: 250 OK id=1wZ4KD-00000000oq6-2pSj
+[12:13:49] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 12:15:47 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[12:15:47] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[12:15:47] ✅ Połączono
+[12:15:47] ✅ Powitanie: 220 outsider.mikr.us ESMTP Exim 4.98.2 Mon, 15 Jun 2026 12:15:47 +0200
+[12:15:47] ✅ EHLO wysłane
+[12:15:47] ✅ STARTTLS wysłane
+[12:15:47] ✅ TLS włączony
+[12:15:47] ✅ EHLO po TLS
+[12:15:47] ✅ AUTH LOGIN
+[12:15:47] ✅ Login wysłany
+[12:15:47] ✅ Zalogowano do SMTP
+[12:15:47] MAIL FROM: 250 OK
+[12:15:47] RCPT TO barbara.nosewicz@gmail.com: 250 Accepted
+[12:15:47] DATA: 354 Enter message, ending with "." on a line by itself
+[12:15:47] Treść wysłana, odpowiedź: 250 OK id=1wZ4M7-00000000ow6-2bD7
+[12:15:47] ✅ Wiadomość zaakceptowana przez serwer
+
+
+========== 2026-06-15 13:05:16 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[13:05:16] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[13:05:16] MAIL FROM: 250 OK
+[13:05:16] RCPT TO test@norbert104.mikr.dev: 250 Accepted
+[13:05:16] Treść: 250 OK id=1wZ580-00000000vL9-2QOb
+
+
+========== 2026-06-15 13:06:15 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[13:06:15] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[13:06:15] MAIL FROM: 250 OK
+[13:06:15] RCPT TO test@norbert104.mikr.dev: 250 Accepted
+[13:06:15] Treść: 250 OK id=1wZ58x-00000000vOT-3Z72
+
+
+========== 2026-06-15 13:08:08 ==========
+User: test@norbert104.mikr.dev
+SMTP SEND LOG:
+[13:08:08] 🔌 Łączenie z mail.norbert104.mikr.dev:587
+[13:08:08] MAIL FROM: 250 OK
+[13:08:08] RCPT TO test@norbert104.mikr.dev: 250 Accepted
+[13:08:08] Treść: 250 OK id=1wZ5Am-00000000vUU-1X8T

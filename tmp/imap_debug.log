@@ -1,0 +1,70 @@
+13:33:11 moveToTrash(9) - szukam kosza...
+13:33:11 Znaleziony kosz: Trash
+13:33:11 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:33:11 Skopiowano do kosza, usuwam oryginał
+13:33:11 Usunięto oryginał
+13:48:34 moveToTrash(10) - szukam kosza...
+13:48:34 Znaleziony kosz: Trash
+13:48:34 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:48:34 Skopiowano do kosza, usuwam oryginał
+13:48:34 Usunięto oryginał
+13:49:23 moveToTrash(14) - szukam kosza...
+13:49:23 Znaleziony kosz: Trash
+13:49:23 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:23 Skopiowano do kosza, usuwam oryginał
+13:49:23 Usunięto oryginał
+13:49:26 moveToTrash(13) - szukam kosza...
+13:49:26 Znaleziony kosz: Trash
+13:49:26 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:26 Skopiowano do kosza, usuwam oryginał
+13:49:26 Usunięto oryginał
+13:49:28 moveToTrash(12) - szukam kosza...
+13:49:28 Znaleziony kosz: Trash
+13:49:28 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:28 Skopiowano do kosza, usuwam oryginał
+13:49:28 Usunięto oryginał
+13:49:30 moveToTrash(11) - szukam kosza...
+13:49:30 Znaleziony kosz: Trash
+13:49:30 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:30 Skopiowano do kosza, usuwam oryginał
+13:49:30 Usunięto oryginał
+13:49:31 moveToTrash(10) - szukam kosza...
+13:49:31 Znaleziony kosz: Trash
+13:49:31 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:31 Skopiowano do kosza, usuwam oryginał
+13:49:31 Usunięto oryginał
+13:49:33 moveToTrash(8) - szukam kosza...
+13:49:33 Znaleziony kosz: Trash
+13:49:33 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:33 Skopiowano do kosza, usuwam oryginał
+13:49:33 Usunięto oryginał
+13:49:37 moveToTrash(4) - szukam kosza...
+13:49:37 Znaleziony kosz: Trash
+13:49:37 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:37 Skopiowano do kosza, usuwam oryginał
+13:49:37 Usunięto oryginał
+13:49:39 moveToTrash(3) - szukam kosza...
+13:49:39 Znaleziony kosz: Trash
+13:49:39 Kopiuję do Trash z flagami: \Seen \Flagged \Answered
+13:49:39 Skopiowano do kosza, usuwam oryginał
+13:49:39 Usunięto oryginał
+13:56:42 Znaleziono załącznik: filipiak.cc(2).txt (part 2)
+13:56:42 Pobrano 4452 bajtów surowych danych
+13:56:42 Zdekodowano base64: 3250 bajtów
+13:56:42 Dodano załącznik: filipiak.cc(2).txt (3250 bajtów)
+13:56:44 getAttachmentByUid: UID=17, msgno=8, part=2
+13:56:44 Pobrano 4452 bajtów surowych dla part 2
+13:56:44 Zdekodowano base64: 3250 bajtów
+13:56:44 Zwracam załącznik: filipiak.cc(2).txt (3250 bajtów)
+13:56:59 Znaleziono załącznik: 1_max.jpg (part 2)
+13:56:59 Pobrano 128090 bajtów surowych danych
+13:56:59 Zdekodowano base64: 93603 bajtów
+13:56:59 Dodano załącznik: 1_max.jpg (93603 bajtów)
+13:57:02 getAttachmentByUid: UID=11, msgno=3, part=2
+13:57:02 Pobrano 128090 bajtów surowych dla part 2
+13:57:02 Zdekodowano base64: 93603 bajtów
+13:57:02 Zwracam załącznik: 1_max.jpg (93603 bajtów)
+13:57:43 Znaleziono załącznik: 1_max.jpg (part 2)
+13:57:43 Pobrano 128090 bajtów surowych danych
+13:57:43 Zdekodowano base64: 93603 bajtów
+13:57:43 Dodano załącznik: 1_max.jpg (93603 bajtów)

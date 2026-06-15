@@ -5,7 +5,7 @@
         <form method="POST" action="<?= APP_URL ?>/index.php?page=login" class="login-form">
             <div class="form-group">
                 <label for="email">Adres email</label>
-                <input type="email" id="email" name="email" required placeholder="twoja.nazwa@norbert104.mikr.dev" value="<?= htmlspecialchars($_POST['email'] ?? '') ?>">
+                <input type="email" id="email" name="email" required placeholder="your@mail" value="<?= htmlspecialchars($_POST['email'] ?? '') ?>">
             </div>
             <div class="form-group">
                 <label for="password">Hasło</label>
